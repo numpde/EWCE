@@ -34,9 +34,9 @@ check.ewce.genelist.inputs <- function(sct_data,hits,bg,genelistSpecies,sctSpeci
     #data("mouse_to_human_homologs")
     #data("all_mgi")
     #data("all_hgnc")
-    mouse_to_human_homologs <- EWCE::mouse_to_human_homologs
-    all_mgi <- EWCE::all_mgi
-    all_hgnc <- EWCE::all_hgnc
+    #mouse_to_human_homologs <- EWCE::mouse_to_human_homologs
+    #all_mgi <- EWCE::all_mgi
+    #all_hgnc <- EWCE::all_hgnc
     orthologsOnly=FALSE
 
     # CHECK THE ARGUMENTS ARE PROPERLY STRUCTURED
